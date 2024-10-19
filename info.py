@@ -25,8 +25,8 @@ MOVIE_GROUP_LINK = environ.get('MOVIE_GROUP_LINK', 'https://t.me/IBMMovReq')
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002093599394').split()]
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://vicky5:2003@cluster0.djc61.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
-DATABASE_NAME = environ.get('DATABASE_NAME', "vicky2005")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://vicky6:2003@cluster0.vs3xa.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DATABASE_NAME = environ.get('DATABASE_NAME', "vicky2006")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'ibmbotsupport')
 #---------------------------------------------------------------
 #---------------------------------------------------------------
