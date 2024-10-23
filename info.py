@@ -107,7 +107,7 @@ if 'DYNO' in environ:
     ON_HEROKU = True
 else:
     ON_HEROKU = False
-URL = environ.get("FQDN", "https://peaceful-margeaux-movbotbyibm-760a4085.koyeb.app/")
+URL = environ.get("FQDN", "https://philosophical-berte-movbotbyibm-cfcacbff.koyeb.app/")
 
 #---------------------------------------------------------------
 #---------------------------------------------------------------
