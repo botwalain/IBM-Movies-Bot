@@ -341,9 +341,7 @@ Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ ᴍᴇ ᴀ�
 
     SOURCE_TXT = """<b>
 NOTE:
-- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<blockquote><a href="https://t.me/IBMBotSupport">IBM Bot Support</a></blockquote>
-
-developer : Demon Lord
+- Aʟʟ Rɪɢʜᴛꜱ Rᴇꜱᴇʀᴠᴇᴅ Bʏ› :<blockquote><a href="https://t.me/IBMBotSupport">IBM Bot Support</a></blockquote>
 </b>""" 
     GROUP_C_TEXT = """<b><blockquote>
  --------------Set Verify-------------
