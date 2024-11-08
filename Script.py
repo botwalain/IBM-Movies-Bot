@@ -341,7 +341,7 @@ Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ ᴍᴇ ᴀ�
 
     SOURCE_TXT = """<b>
 NOTE:
-- Aʟʟ Rɪɢʜᴛꜱ Rᴇꜱᴇʀᴠᴇᴅ Bʏ› :<blockquote><a href="https://t.me/IBMBotSupport">IBM Bot Support</a></blockquote>
+- Aʟʟ Rɪɢʜᴛꜱ Rᴇꜱᴇʀᴠᴇᴅ Bʏ› :<blockquote><a href="https://t.me/IBMBotSupport">𝐈𝐁𝐌 𝐁𝐎𝐓 𝐒𝐔𝐏𝐏𝐎𝐑𝐓</a></blockquote>
 </b>""" 
     GROUP_C_TEXT = """<b><blockquote>
  --------------Set Verify-------------
