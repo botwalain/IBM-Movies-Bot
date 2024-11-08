@@ -28,7 +28,7 @@ async def ban_reply(bot, message):
     ban = await db.get_ban_status(message.from_user.id)
     username = message.from_user.username or 'No Username'
     # Send reply to the user
-    await message.reply(f'You are banned from the Bot contact here @IBMBotSupport for unban')
+    await message.reply(f'You are banned from the Bot due to \nBan Reason : {ban["ban_reason"]} contact here @IBMBotSupport for unban')
     
     # Send message to the log channel
     await bot.send_message(
