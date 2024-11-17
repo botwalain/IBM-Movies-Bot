@@ -71,7 +71,7 @@ REQUEST_CHANNEL = int(request_channel) if request_channel and id_pattern.search(
 #---------------------------------------------------------------
 START_IMG = (environ.get('START_IMG', 'https://graph.org/file/d48641a6ff9ea38271f60.jpg https://graph.org/file/6f3ac60ae6c90db6209e3-464a350e843ca00dc8.jpg https://graph.org/file/4d10e001f806f7be6ac35-87298e7f5ec09e6f4b.jpg https://graph.org/file/08f4104c84a6e79218a27-e3f0134f63c283c107.jpg https://graph.org/file/ede8be685465d825612c4-20c66d4ca88b179267.jpg https://graph.org/file/7fa3c8d4175d75d49f3af-57934553ced5aeb1c0.jpg')).split()
 FORCESUB_IMG = environ.get('FORCESUB_IMG', 'https://graph.org/file/33e9510088e8ebffabe54-2441c23d4c543f8b5f.jpg')
-REFER_PICS = (environ.get("REFER_PICS", "https://graph.org/file/d48641a6ff9ea38271f60.jpg")).split() 
+REFER_PICS = (environ.get("REFER_PICS", "https://graph.org/file/be56a5d8be20a3ff79619-5d6c7163cac4749b17.jpg")).split() 
 PAYPICS = (environ.get('PAYPICS', 'https://graph.org/file/d48641a6ff9ea38271f60.jpg')).split()
 SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://graph.org/file/d48641a6ff9ea38271f60.jpg'))
 REACTIONS = ["👀", "😱", "🔥", "😍", "🎉", "🥰", "😇", "⚡"]
