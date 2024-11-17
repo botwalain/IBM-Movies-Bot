@@ -73,12 +73,12 @@ START_IMG = (environ.get('START_IMG', 'https://graph.org/file/d48641a6ff9ea38271
 FORCESUB_IMG = environ.get('FORCESUB_IMG', 'https://graph.org/file/33e9510088e8ebffabe54-2441c23d4c543f8b5f.jpg')
 REFER_PICS = (environ.get("REFER_PICS", "https://graph.org/file/be56a5d8be20a3ff79619-5d6c7163cac4749b17.jpg")).split() 
 PAYPICS = (environ.get('PAYPICS', 'https://graph.org/file/23b2aac18e486218afbe3-621215bdb704885a87.jpg')).split()
-SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://graph.org/file/d48641a6ff9ea38271f60.jpg'))
-REACTIONS = ["👀", "😱", "🔥", "😍", "🎉", "🥰", "😇", "⚡"]
+SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://graph.org/file/890ad012b5ba3417a5e1a-a5b7a13fe2883af665.jpg'))
+REACTIONS = ["❤️", "❤️‍🔥"]
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-FILE_AUTO_DEL_TIMER = int(environ.get('FILE_AUTO_DEL_TIMER', '120'))
+FILE_AUTO_DEL_TIMER = int(environ.get('FILE_AUTO_DEL_TIMER', '60'))
 AUTO_FILTER = is_enabled('AUTO_FILTER', True)
 IS_PM_SEARCH = is_enabled('IS_PM_SEARCH', False)
 IS_SEND_MOVIE_UPDATE = is_enabled('IS_SEND_MOVIE_UPDATE', False) # Don't Change It ( If You Want To Turn It On Then Turn It On By Commands) We Suggest You To Make It Turn Off If You Are Indexing Files First Time.
