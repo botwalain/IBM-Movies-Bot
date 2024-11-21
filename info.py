@@ -101,8 +101,8 @@ STREAM_MODE = bool(environ.get('STREAM_MODE', True)) # Set True or Flase
 # Online Stream and Download
 
 MULTI_CLIENT = False
-SLEEP_THRESHOLD = int(environ.get('SLEEP_THRESHOLD', '60'))
-PING_INTERVAL = int(environ.get("PING_INTERVAL", "1200"))  # 20 minutes
+SLEEP_THRESHOLD = int(environ.get('SLEEP_THRESHOLD', '86400'))
+PING_INTERVAL = int(environ.get("PING_INTERVAL", "300"))  # 20 minutes
 if 'DYNO' in environ:
     ON_HEROKU = True
 else:
